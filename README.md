@@ -28,5 +28,12 @@ The notebook calculates:
 - Convexity adjustment
 - Price–yield relationship
 
+Run this notebook interactively:
+
+1. Download the notebook
+2. Open using Jupyter Notebook
+3. Modify input parameters such as face_value, coupon_rate, or ytm
+4. Re-run the cells to observe price, duration, and convexity changes
+
 ## Author
 Pritesh Kumar
