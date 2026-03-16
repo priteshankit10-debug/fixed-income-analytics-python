@@ -1,6 +1,6 @@
-# fixed-income-analytics-python
+# bond-analytics-python
 Bond pricing, duration, and convexity analytics using Python and NumPy.
-# Fixed Income Analytics in Python
+# Bond Analytics in Python
 
 This project implements core fixed-income concepts using Python.
 
